@@ -39,3 +39,5 @@ updates:
 
   - package-ecosystem: "sbt"
     directory: "/"
+    schedule:
+      interval: "daily"  # Choose from "daily", "weekly", or "monthly"    
