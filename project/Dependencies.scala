@@ -54,7 +54,7 @@ object Dependencies {
   // We should switch to using the BOM versioning system for these deps
   // https://docs.cloud.google.com/java/docs/bom
   lazy val gcp_kms_version = "2.63.0"
-  lazy val gcp_storage_version = "2.50.0"
+  lazy val gcp_storage_version = "2.68.0"
   lazy val zstd_version = "1.5.5-5"
   lazy val gson_version = "2.9.1"
   lazy val gson_fire_version = "1.9.0"
