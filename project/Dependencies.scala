@@ -58,7 +58,7 @@ object Dependencies {
   lazy val zstd_version = "1.5.5-5"
   lazy val gson_version = "2.9.1"
   lazy val gson_fire_version = "1.9.0"
-  lazy val h2_version = "2.2.224"
+  lazy val h2_version = "2.4.240"
   lazy val janino_version = "3.1.12"
   lazy val javax_annotations_version = "1.3.2"
   lazy val jackson_databind_nullable_version = "0.2.6"
